@@ -1,8 +1,8 @@
-Паламарчук Євген
+Evgeny Palamarchuk
 +380636415007, frankeshtayn00@gmail.com
-23 роки. Люблю технології і обожнюю отримувати новий досвід. Хочу стати кращим в своєму ділі, програмуванні. Є невеликий досвід по версткі сайтів, зараз проходжу курс по програмуванню.
-Невеликий досвід JS, CVV, HTML.
+23 years old. I love technology and love to get new experiences. I want to become better at my job, programming. I have a little experience in designing websites, I am currently taking a programming course.
+Little experience in JS, CVV, HTML.
 -
 -
-Курс від RS Scool, юрист по освіті.
-Рівень англійської B2, закінчував курси, спілкувався з іностранцями. займався з репетитором близько року. 
+Course from RS Scool, lawyer by education.
+English level B2, completed courses, communicated with foreigners. studied with a tutor for about a year.
