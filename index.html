@@ -29,12 +29,9 @@
    width="500" height="650"/>
    <H1>  MY CV </H1>
     <h2> 1. Yevhen Palamarchuk</h2>
-    <h2> 2. <ul> 
-     <li>+380636415007, </li> 
-     <li>frankeshtayn00@gmail.com,</li> 
-     <li>Discord: @sinfaint00</li> 
-    </ul> 
-    </h2>
+    <h2> 2. +380636415007,</h2>
+      <h2>frankeshtayn00@gmail.com,</h2> 
+      <h2>Discord: @sinfaint00</h2>
     <h2> 3. 23 years old. I love technology and love to get new experiences. My goal is to become a good developer who brings something new to the world. I am a quick learner, communicative and creative. 
       I have experience in sales and SMM. Great desire to learn and learn something new.I want to become better at my job, programming.</h2>
     <h2>4. I have a little experience in designing websites, I am currently taking a programming course.Little experience in JS, CVV, HTML.</h2>
